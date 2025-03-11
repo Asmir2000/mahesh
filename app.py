@@ -1,4 +1,6 @@
-# Iterative approach
+#
+this is a data :
+Iterative approach
 def fibonacci_iterative(n):
     a, b = 0, 1
     for _ in range(n):
